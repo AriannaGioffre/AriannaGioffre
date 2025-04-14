@@ -1,7 +1,9 @@
 ## Hi, I'm Arianna 👋
 ### Welcome to my GitHub profile
 
-👩🏻‍💻 I’m currently attending a Data Analytics Bootcamp at Le Wagon 
+👩🏻‍💻 At the end of March I completed a Data Analytics Bootcamp at Le Wagon 
+
+📦 Ex-Amazonian, strong experience in Logistics and Supply Chain
 
 🩶 Loving coding, performing data-driven analysis, watching TV series and baking 
 
